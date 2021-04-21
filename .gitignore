@@ -1,6 +1,6 @@
 # Folders
 node_modules
-/assets
+assets
 
 #files
 .DS_Store
