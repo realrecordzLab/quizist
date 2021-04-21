@@ -1,0 +1,9 @@
+# Folders
+node_modules
+/assets
+
+#files
+*.pdf
+*.txt
+*.js
+*.json
