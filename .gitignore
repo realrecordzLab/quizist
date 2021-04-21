@@ -3,6 +3,7 @@ node_modules
 /assets
 
 #files
+.DS_Store
 *.pdf
 *.txt
 *.js
